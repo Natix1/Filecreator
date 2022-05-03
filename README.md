@@ -1,20 +1,6 @@
 # Filecreator
 File creator is a program to create .txt files, with data in them.
 
-════════════════════════════════════
-══════████████████══════════════════
-══════█══════════███████████████████
-══════█════════════════════════════█
-══════█════════════════════════════█
-══════█════════════════════════════█
-══════█═════════════█══════════════█
-══════█═════════════█══════════════█
-══════█══════════▀▀▀█▀▀▀═══════════█
-══════█═════════════█══════════════█
-══════█════════════════════════════█
-══════█════════════════════════════█
-══════██████████████████████████████
-════════════════════════════════════
 File creator
 
 You can chose file name, data, directory and ammount of files to create.
@@ -26,3 +12,8 @@ No license, I typed WTFPL (Do what the fuck you want) but didn't apply cus im a 
 RULES:
 - HAVE FUN
 - THATS IT
+
+# About me
+- Nothing special
+- Stop reading this
+- Why you read this
